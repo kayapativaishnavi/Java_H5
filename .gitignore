@@ -1,0 +1,15 @@
+# Java
+*.class
+bin/
+out/
+target/
+
+# Media & docs
+*.mkv
+*.mp4
+*.pdf
+*.docx
+*.lnk
+
+# System
+desktop.ini
