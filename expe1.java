@@ -20,4 +20,4 @@ class  expe1{
             System.out.print(arr[i]+" ");
         }
     }
-}
+} 

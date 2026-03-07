@@ -1,4 +1,4 @@
-class LargestElement {
+class Large {
     public static void main(String[] args) {
 
         int arr[] = {10,25,7,40,15};
